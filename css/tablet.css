@@ -1,0 +1,29 @@
+@media (max-width: 1023px) {
+    .text-nav {
+        display: none;
+    }
+
+    #nav-bar a:link,
+    a:visited {
+        padding: 10px;
+        margin-right: 1rem;
+        padding-bottom: 30px;        
+    }
+
+    #nav-bar {
+        margin-top: 1rem;        
+    }
+
+    #nav-bar a:link{
+        margin-right: 40px;
+    }
+
+    #target{
+        margin-top: 25px;
+    }
+    
+    .cer-content{
+        flex-direction: column;
+        gap: 30px;
+    }
+}

@@ -1,0 +1,38 @@
+@media (max-width: 767px) {
+    .img-banner{
+        width: 100%;
+    }
+
+    .text-nav {
+        display: none;
+    }
+
+    #nav-bar {
+        height:autopx;
+        display: block;
+    }
+
+    #nav-bar a:link, a:visited {
+        display: block;
+        padding: 10px;        
+        text-align: left;
+    }
+
+    #personal-info {
+        margin-left: 300px;
+    }
+
+    #target {
+        margin-left: 300px;
+    }
+
+    #about {
+        margin-left: -150px;
+    }
+
+    #footer a:link{    
+    margin-right: 10px;    
+    }
+
+    
+}
